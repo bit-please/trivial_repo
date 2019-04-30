@@ -1,1 +1,5 @@
 Adds some code to another file.
+
+New code
+
+More new code
